@@ -1,0 +1,25 @@
+.parentdiv{
+    display: flex;
+    flex-direction: column;
+}
+.imagediv{
+    display: flex;
+    background-color: red;
+    height: 20rem;
+    width: 20rem;
+    margin-left: 25rem;
+    margin-top: 10rem;
+    flex-direction: column;
+}
+
+.buttondiv{
+    display: flex;
+    
+    flex-direction: row;
+    margin-left: 14rem;
+    gap:2rem;
+    margin-top: 0.5rem;
+}
+.buttonstyle{
+    margin-left: 15rem;
+}
